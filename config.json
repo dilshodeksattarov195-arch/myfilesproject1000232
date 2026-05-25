@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervender",
+        "uuid": 1621216,
+        "checksum": "ydpdws"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
